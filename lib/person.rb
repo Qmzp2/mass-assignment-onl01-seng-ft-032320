@@ -1,3 +1,9 @@
 class Person
-  #your code here
+  
+  
+  
+  def initialize(properties)
+    
+    
+  end
 end
